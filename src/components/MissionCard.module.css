@@ -1,0 +1,27 @@
+.MissionCard {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 1rem;
+    display: flex;
+    flex-basis: 400px;
+    flex-flow: row wrap;
+    font-size: 0.8rem;
+    gap: 1rem;
+    justify-content: space-around;
+    padding: 1rem;
+  }
+  
+  .MissionCardName {
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid white;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-basis: 100%;
+    font-size: 1.5rem;
+    justify-content: center;
+    padding: 0.5rem;
+  }
+  
+  .MissionCard:last-child {
+    height: 10.5rem;
+  }

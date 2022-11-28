@@ -1,31 +1,31 @@
 .Mercúrio {
-    width: 3.49%;
-  }
-  
-  .Vênus {
-    width: 8.65%;
-  }
-  
-  .Terra {
-    width: 9.11%;
-  }
-  
-  .Marte {
-    width: 4.84%;
-  }
-  
-  .Júpiter {
-    width: 100%;
-  }
-  
-  .Saturno {
-    width: 115%;
-  }
-  
-  .Urano {
-    width: 36.27%;
-  }
-  
-  .Netuno {
-    width: 35.21%;
-  }
+  width: 3.49%;
+}
+
+.Vênus {
+  width: 8.65%;
+}
+
+.Terra {
+  width: 9.11%;
+}
+
+.Marte {
+  width: 4.84%;
+}
+
+.Júpiter {
+  width: 100%;
+}
+
+.Saturno {
+  width: 115%;
+}
+
+.Urano {
+  width: 36.27%;
+}
+
+.Netuno {
+  width: 35.21%;
+}

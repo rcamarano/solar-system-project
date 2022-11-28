@@ -1,24 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Nova+Slim&display=swap') ;
-
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@200&display=swap');
 * {
   box-sizing: border-box;
   color: grey;
   font-family: Epilogue;
-  font-size: 40px;
-  font-weight: 300;
-  line-height: 60px;
-  letter-spacing: 0em;
-  text-align: center;  
   margin: 0;
   padding: 0;
-}
+  }
 
-.App {
-  align-items: center;
-  background-image: url('./images/background.png');
-  display: flex;
-  flex-flow: column;
-  gap: 3rem;
-  min-width: 425px;
-  text-align: center;
-}
+  .App {
+    align-items: center;
+    background-image: url('./images/background.png');
+    display: flex;
+    flex-flow: column;
+    gap: 3rem;
+    min-width: 425px;
+    text-align: center;
+  }
