@@ -1,4 +1,4 @@
-@media screen and (min-width : 426px) {
+@media screen and ( min-width : 426px ) {
 
   .PlanetCard {
     transition: 0.5s ease;
@@ -8,11 +8,11 @@
     transform: scale(2) translateY(1rem);
   }
 
-  .PlanetCard>img {
+  .PlanetCard > img {
     transition: 1s ease;
   }
 
-  .PlanetCard:hover>img {
+  .PlanetCard:hover > img {
     width: 100%;
   }
 

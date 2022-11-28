@@ -7,10 +7,10 @@
 
 .PlanetsList {
   align-items: center;
-  max-width: 90%;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-around;
+  max-width: 90%;
   position: relative;
   z-index: 1;
 }
