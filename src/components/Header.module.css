@@ -1,0 +1,27 @@
+.Header {
+    font-size: 2rem;
+    padding: 5rem;
+    position: relative;
+  }
+  
+  .Header > h1 {
+    /* color: aqua; */
+    position: relative;
+    z-index: 1;
+  }
+  
+  .Header:after {
+    background: transparent;
+    border-radius: 50%;
+    box-sizing: border-box;
+    content: '';
+    height: 5rem;
+    left: 42%;
+    outline: 1px solid grey;
+    padding: 1rem;
+    position: absolute;
+    top: 5rem;
+    transform: skew(-65deg, -65deg);
+    width: 5rem;
+    z-index: 0;
+  }
