@@ -6,8 +6,8 @@
 }
 
 .PlanetsList {
-  max-width: 90%;
   align-items: center;
+  max-width: 90%;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-around;
@@ -15,6 +15,6 @@
   z-index: 1;
 }
 
-  .PlanetsList img {
+.PlanetsList img {
   width: 90%;
 }

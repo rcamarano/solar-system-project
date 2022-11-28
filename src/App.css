@@ -1,18 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@200&display=swap') ;
+
 * {
   box-sizing: border-box;
   color: grey;
   font-family: Epilogue;
   margin: 0;
   padding: 0;
-  }
+}
 
-  .App {
-    align-items: center;
-    background-image: url('./images/background.png');
-    display: flex;
-    flex-flow: column;
-    gap: 3rem;
-    min-width: 425px;
-    text-align: center;
-  }
+.App {
+  align-items: center;
+  background-image: url('./images/background.png');
+  display: flex;
+  flex-flow: column;
+  gap: 3rem;
+  min-width: 425px;
+  text-align: center;
+}
