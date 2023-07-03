@@ -38,17 +38,8 @@ $ git clone https://github.com/rcamarano/solar-system-project.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd solar-system-project
 
-# Instale as dependências
-$ npm install
-
-$ npm start
-
 # O servidor inciará na porta:3001 - acesse http://localhost:3001
 ```
-
-## Documentação
-
-A documentação da API foi feita utilizando o Swagger, para acessá-la basta acessar a rota http://localhost:3001/docs.
 
 ## Autor
 
