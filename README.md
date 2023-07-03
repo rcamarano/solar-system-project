@@ -1,8 +1,8 @@
 # 🚀🛰🌎🪐 Solar System Project 🛰🌎🪐🚀
 
->>> "Solar System Project foi desenvolvido durante o curso de Desenvolvimento Web da Trybe. Utilizando HTML, CSS, JavaScript, React, Redux, ContextAPI, Hooks, React Testing Library, Jest, Git, GitHub, NodeJS, Express, MongoDB, MySQL, Sequelize, JWT, Socket.io, WebSockets, AWS, Heroku, entre outras tecnologias. O projeto consiste em uma página de informações sobre o sistema solar, com possibilidade de adicionar planetas aos favoritos e visualizar mais informações sobre cada um deles.".
+>>> "Solar System Project foi desenvolvido durante o curso de Desenvolvimento Web da Trybe. Utilizando HTML, CSS, JavaScript, React, Redux, ContextAPI, Hooks, React Testing Library, Jest, Git, GitHub, NodeJS, entre outras tecnologias. O projeto consiste em uma página de informações sobre o sistema solar, com possibilidade de adicionar planetas aos favoritos e visualizar mais informações sobre cada um deles.".
 >>> Um projeto muito interessante e divertido de montar. Durante a execução pude desenvolver mais minhas habilidades de gestão do tempo, inteligência emocional, pensamento crítico e controle de ansiedade.
->>> Além, é claro de praticar mais um pocuo os conhecimentos em estrutura de dados relacionais e executar os passos que o projeto precisava. Modelagem de tabelas, validação de token de acesso, criaão de dados nas tabelas do DB, bem como a interação entre esses dados para gerar os resultados finais das tabelas. Tudo isso utliziando Typescript como linguagem principal e utilizando a estrutura MSC (Model, Service, Controller) na criação e manipulação do banco de dados.
+>>> Além, é claro de praticar mais um pocuo os conhecimentos em estrutura de dados relacionais e executar os passos que o projeto precisava. Utliziando Javascript como linguagem principal e CSS para estilizar o design da página.
 
 
 >>> A partir de agora esse repositório fica disponível publicamente e estou aberto a sugestões e colaborações futuras.
