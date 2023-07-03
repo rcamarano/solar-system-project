@@ -32,7 +32,7 @@ Obrigado por sua visita.!
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/rcamarano/blogs-api.git
+$ https://github.com/rcamarano/solar-system-project.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd solar-system-project
