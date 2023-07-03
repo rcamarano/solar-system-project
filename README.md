@@ -27,6 +27,7 @@ Obrigado por sua visita.!
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CSS](https://devdocs.io/css/)
 
 ## Instalação
 
