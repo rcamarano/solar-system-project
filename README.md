@@ -10,11 +10,11 @@ Obrigado por sua visita.!
 
 <div align="center">
 <!--   <img alt="TFC!" src="imgs/5ca10a0410f76.png" width="250px"> -->
-  <h1>Blogs API</h1>
+  <h1>Solar System</h1>
   <p>
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rcamarano/blogs-api?color=blueviolet">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rcamarano/blogs-api?color=blueviolet">
-    <img alt="GitHub" src="https://img.shields.io/github/license/rcamarano/blogs-api?color=blueviolet">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rcamarano/solar-system-project?color=blueviolet">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rcamarano/solar-system-project?color=blueviolet">
+    <img alt="GitHub" src="https://img.shields.io/github/license/rcamarano/solar-system-project?color=blueviolet">
   </p>
 </div>
 
@@ -35,17 +35,12 @@ Obrigado por sua visita.!
 $ git clone https://github.com/rcamarano/blogs-api.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd blogs-api
+$ cd solar-system-project
 
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
-$ docker-compose up -d
-
-$ docker exec -it blogs_api bash
-
-$ npm run dev
+$ npm start
 
 # O servidor inciará na porta:3001 - acesse http://localhost:3001
 ```
